@@ -1,3 +1,4 @@
+fyeuei
 
 # Welcome to the PojavLauncher Wiki!
 ____
